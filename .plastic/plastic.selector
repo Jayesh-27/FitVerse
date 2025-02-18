@@ -1,0 +1,4 @@
+repository "FitVerse@Reality_Crafters@cloud"
+  path "/"
+    br "/main"
+    co "/main"
